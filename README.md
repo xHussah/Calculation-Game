@@ -14,6 +14,11 @@ Calculation Game is a competitive multiplayer math quiz where 2 to 4 players rac
 
 3- If the server and client are on different devices, replace “localhost” in line 552 with the IP address of the server’s laptop.
 
+<img width="800" alt="Screenshot 2026-05-16 075849" src="https://github.com/user-attachments/assets/b31a01d9-2630-49bd-a4a0-41ba916715fd" />
+<img width="800" alt="Screenshot 2026-05-16 080019" src="https://github.com/user-attachments/assets/0d123309-e3c7-47fe-a341-6cf1d9402763" />
+<img width="800" alt="Screenshot 2026-05-16 080036" src="https://github.com/user-attachments/assets/c4013ffb-fe0b-4115-916c-9c06a5403203" />
+
+
 ## Developers:
 
 - Leen Alzahrani 
